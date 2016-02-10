@@ -14,11 +14,14 @@ body {
 	text-align:center;
 	font-family:Helvetica;
 	font-size:25px;
+	font-weight:bold;
 	color:#ffffff;
 }
 
 #img {
 	text-align:center;
+	border-style:solid;
+	padding:25px;
 }
 
 .content {
