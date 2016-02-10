@@ -1,9 +1,8 @@
 body {
 	background-color: #779ECB;
-	opacity: 0.2;
 }
 
-#header {
+header {
 	text-align:center;
 	font-family: Rockwell;
 	font-weight:bold;
@@ -34,6 +33,8 @@ img {
 	padding: 5%;
 	background-color: #3B444B;
 	font-family: Rockwell;
+	font-size: 24px;
+	font-weight: bold;
 	color: #B0C4DE;
 	margin-left: 25%;
 	margin-right: 25%;
