@@ -4,7 +4,7 @@ body {
 
 #header {
 	text-align:center;
-	font-family:Sans-serif;
+	font-family: Rockwell;
 	font-weight:bold;
 	font-size:40px;
 	color:#ffffff;
@@ -12,7 +12,7 @@ body {
 
 a {
 	text-align: right;
-	font-family:Sans-serif;
+	font-family: Rockwell;
 	font-size:25px;
 	font-weight:bold;
 	color:#ffffff;
@@ -31,7 +31,7 @@ img {
 	border-color: #FDFD96;
 	padding: 5%;
 	background-color: #3B444B;
-	font-family: Sans-serif;
+	font-family: Rockwell;
 	color: #B0C4DE;
 	margin-left: 25%;
 	margin-right: 25%;
