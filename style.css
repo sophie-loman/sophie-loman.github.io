@@ -4,7 +4,7 @@ body {
 
 #header {
 	text-align:center;
-	font-family:Courier;
+	font-family:Helvetica;
 	font-weight:bold;
 	font-size:40px;
 	color:#ffffff;
@@ -12,18 +12,16 @@ body {
 
 .links {
 	text-align:center;
-	font-family:Courier;
+	font-family:Helvetica;
 	font-size:25px;
 	color:#ffffff;
 }
 
-p {
-	background-color: #ffffff;
-}
-
 .content {
+	border-style:solid;
+	padding:25px;
 	background-color: #ffffff;
-	font-family:Courier;
+	font-family:Helvetica;
 	margin-left:25%;
 	margin-right:25%;
 }
