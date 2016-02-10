@@ -1,6 +1,5 @@
 body {
 	background-image: url("http://motionsacademy.in/images/website-background2.jpg");
-	text-align: center;
 }
 
 #header {
@@ -19,6 +18,7 @@ body {
 }
 
 .content {
+	background-color: #ffffff;
 	font-family:Courier;
 	margin-left:25%;
 	margin-right:25%;
