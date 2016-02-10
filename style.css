@@ -1,6 +1,6 @@
 body {
 	background-color: #779ECB;
-	opacity: 0.4;
+	opacity: 0.2;
 }
 
 #header {
@@ -30,9 +30,9 @@ img {
 	border-style: solid;
 	border-width: 20px;
 	border-color: #007AA5;
+	border-spacing: 5%;
 	padding: 5%;
 	background-color: #3B444B;
-	opacity: 0.4;
 	font-family: Rockwell;
 	color: #B0C4DE;
 	margin-left: 25%;
