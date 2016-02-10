@@ -17,6 +17,10 @@ body {
 	color:#ffffff;
 }
 
+p {
+	background-color: #ffffff;
+}
+
 .content {
 	background-color: #ffffff;
 	font-family:Courier;
