@@ -10,13 +10,16 @@ body {
 	color:#ffffff;
 }
 
-.links {
+#links {
 	text-align:center;
 	font-family:Helvetica;
 	font-size:25px;
 	color:#ffffff;
 }
 
+#img {
+	text-align:center;
+}
 .content {
 	border-style:solid;
 	padding:25px;
