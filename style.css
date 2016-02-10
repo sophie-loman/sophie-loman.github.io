@@ -6,11 +6,11 @@ body {
 	text-align:center;
 	font-family:Courier;
 	font-weight:bold;
-	font-size:50px;
+	font-size:40px;
 	color:#ffffff;
 }
 
-. links {
+.links {
 	text-align:center;
 	font-family:Courier;
 	font-weight:bold;
@@ -18,6 +18,8 @@ body {
 	color:#ffffff;
 }
 
-. content {
+.content {
 	font-family:Courier;
+	margin-left:25%;
+	margin-right:25%;
 }
