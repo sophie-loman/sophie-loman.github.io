@@ -21,13 +21,16 @@ body {
 #img {
 	text-align:center;
 	border:3px solid;
-	padding:0px;
+	padding-top:2px;
+	padding-bottom: 2px;
+	padding-left: 2px;
+	padding-right:2px;
 }
 
 .content {
 	border-style:solid;
 	padding:25px;
-	background-color: #ffffff;
+	background-color: #E6F6FF;
 	font-family:Sans-serif;
 	margin-left:25%;
 	margin-right:25%;
