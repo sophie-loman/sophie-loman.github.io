@@ -1,5 +1,5 @@
 body {
-	background-color: 779ECB;
+	background-color: #779ECB;
 }
 
 #header {
@@ -27,11 +27,12 @@ img {
 
 .content {
 	border-style: solid;
-	border-width: 5px;
+	border-width: 20px;
 	border-color: #FDFD96;
-	padding: 25px;
-	background-color: #FF6961;
+	padding: 5%;
+	background-color: #3B444B;
 	font-family: Sans-serif;
+	color: #B0C4DE;
 	margin-left: 25%;
 	margin-right: 25%;
 }
