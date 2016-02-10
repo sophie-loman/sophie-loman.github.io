@@ -1,5 +1,6 @@
 body {
 	background-color: #779ECB;
+	opacity: 0.4;
 }
 
 #header {
@@ -28,9 +29,10 @@ img {
 .content {
 	border-style: solid;
 	border-width: 20px;
-	border-color: #FDFD96;
+	border-color: #007AA5;
 	padding: 5%;
 	background-color: #3B444B;
+	opacity: 0.4;
 	font-family: Rockwell;
 	color: #B0C4DE;
 	margin-left: 25%;
