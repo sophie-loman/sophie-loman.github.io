@@ -20,6 +20,10 @@ body {
 
 #img {
 	text-align:center;
+	border-style:bold;
+	padding:25px;
+	margin-left:10%;
+	margin-right:10%;
 }
 
 .content {
