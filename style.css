@@ -3,7 +3,7 @@ body {
 }
 
 header {
-	background-image: url="wallpicshd.com/wp-content/uploads/2013/06/Texture-Backgrounds-Wallpaper-HD.jpg";
+	background-image: url="http://wallpicshd.com/wp-content/uploads/2013/06/Texture-Backgrounds-Wallpaper-HD.jpg";
 	text-align:center;
 	font-family: Rockwell;
 	font-weight:bold;
@@ -11,7 +11,7 @@ header {
 	color:#ffffff;
 }
 
-a {
+.links {
 	text-align: center;
 	font-family: Rockwell;
 	font-size:25px;
