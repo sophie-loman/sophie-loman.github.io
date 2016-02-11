@@ -3,7 +3,7 @@ body {
 }
 
 header {
-	background-image: url("pic");
+	background-color: #4C516D;
 	text-align:center;
 	font-family: Sans-serif;
 	font-weight:bold;
@@ -21,7 +21,8 @@ header {
 }
 
 img {
-	text-align: center;
+	display: block;
+	margin: 0 auto;
 	border: 1px solid;
 	padding: 2%;
 }
@@ -38,4 +39,10 @@ img {
 	color: #B0C4DE;
 	margin-left: 10%;
 	margin-right: 10%;
+}
+
+.link.border {
+	border-style: solid;
+	border-width: 5px;
+	border-spacing: 5px;
 }
