@@ -8,10 +8,11 @@ header {
 	font-weight:bold;
 	font-size:40px;
 	color:#ffffff;
+	opacity: 0.2;
 }
 
 a {
-	text-align: right;
+	text-align: center;
 	font-family: Rockwell;
 	font-size:25px;
 	font-weight:bold;
