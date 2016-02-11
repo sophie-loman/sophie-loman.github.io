@@ -24,6 +24,7 @@ header {
 }
 
 .links:hover {
+	text-align: center;
 	color: #3B444B;
 	background-color: #ffffff;
 }
