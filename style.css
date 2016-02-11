@@ -3,7 +3,7 @@ body {
 }
 
 header {
-	background-image: url="http://wallpicshd.com/wp-content/uploads/2013/06/Texture-Backgrounds-Wallpaper-HD.jpg";
+	background-image: url=("wallpicshd.com/wp-content/uploads/2013/06/Texture-Backgrounds-Wallpaper-HD.jpg");
 	text-align:center;
 	font-family: Rockwell;
 	font-weight:bold;
@@ -21,7 +21,7 @@ header {
 }
 
 img {
-	text-align: left;
+	text-align: center;
 	border: 3px solid;
 	padding: 5%;
 }
@@ -38,5 +38,5 @@ img {
 	font-weight: bold;
 	color: #B0C4DE;
 	margin-left: 10%;
-	margin-right: 25%;
+	margin-right: 10%;
 }
