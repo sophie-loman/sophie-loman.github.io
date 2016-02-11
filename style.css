@@ -6,9 +6,9 @@ header {
 	background-color: #3B444B;
 	text-align:center;
 	font-family: Sans-serif;
-	font-size:40px;
-	color:#ffffff;
-	padding:5%;
+	font-size: 40px;
+	color: #ffffff;
+	padding: 1%;
 }
 
 .links {
@@ -16,8 +16,9 @@ header {
 	font-family: Sans-serif;
 	font-size: 36px;
 	font-weight: bold;
-	color:#ffffff;
-	padding: 5%;
+	color: #ffffff;
+	text-decoration: none;
+	padding: 1%;
 }
 
 img {
@@ -31,7 +32,6 @@ img {
 	border-style: solid;
 	border-width: 5px;
 	border-color: #B0C4DE;
-	border-spacing: 5px;
 	padding: 5%;
 	background-color: #3B444B;
 	font-family: Sans-serif;
