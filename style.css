@@ -16,12 +16,8 @@ a {
 	text-align: center;
 }
 
-.center-links {
-	text-align: center;
-}
-
 .links {
-	font-family: Rockwell;
+	font-family: Veranda, Geneva, sans-serif;
 	font-size: 36px;
 	font-weight: bold;
 	padding: 1%;
@@ -47,7 +43,7 @@ img {
 	border-color: #ffffff;
 	padding: 5%;
 	background-color: #3B444B;
-	font-family: arial;
+	font-family: Veranda, Geneva, sans-serif;
 	font-size: 26px;
 	color: #ffffff;
 	margin-left: 10%;
