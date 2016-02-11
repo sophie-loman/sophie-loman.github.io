@@ -9,6 +9,7 @@ header {
 	font-size: 40px;
 	color: #ffffff;
 	padding: 1%;
+	margin: 1%;
 }
 
 .links {
@@ -22,7 +23,8 @@ header {
 	padding: 2%;
 }
 
-.no-underline:hover {
+.no-underline {
+	color: #ffffff;
 	text-decoration: none;
 }
 
