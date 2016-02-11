@@ -17,13 +17,15 @@ header {
 	font-family: Rockwell;
 	font-size: 36px;
 	font-weight: bold;
-}
-
-.no-underline {
 	padding: 1%;
 	border: 1px solid;
 	color: #ffffff;
 	text-decoration: none;
+}
+
+.links:hover {
+	color: #3B444B;
+	background-color: #ffffff;
 }
 
 img {
@@ -36,6 +38,7 @@ img {
 .content {
 	border: 1px solid;
 	border-color: #ffffff;
+	border
 	padding: 5%;
 	background-color: #3B444B;
 	font-family: Rockwell;
