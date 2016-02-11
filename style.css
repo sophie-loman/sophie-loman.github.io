@@ -17,13 +17,11 @@ header {
 	font-family: Rockwell;
 	font-size: 36px;
 	font-weight: bold;
-	color: #ffffff;
-	padding: 1%;
-	border: 1px solid;
-	padding: 2%;
 }
 
 .no-underline {
+	padding: 1%;
+	border: 1px solid;
 	color: #ffffff;
 	text-decoration: none;
 }
@@ -36,9 +34,8 @@ img {
 }
 
 .content {
-	border-style: solid;
-	border-width: 5px;
-	border-color: #B0C4DE;
+	border: 1px solid;
+	border-color: #ffffff;
 	padding: 5%;
 	background-color: #3B444B;
 	font-family: Rockwell;
