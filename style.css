@@ -12,9 +12,14 @@ header {
 	margin: 1%;
 }
 
+a {
+	text-align: center;
+}
+
 .center-links {
 	text-align: center;
 }
+
 .links {
 	font-family: Rockwell;
 	font-size: 36px;
@@ -42,9 +47,9 @@ img {
 	border-color: #ffffff;
 	padding: 5%;
 	background-color: #3B444B;
-	font-family: sans-serif;
+	font-family: arial;
 	font-size: 26px;
-	color: #B0C4DE;
+	color: #ffffff;
 	margin-left: 10%;
 	margin-right: 10%;
 }
