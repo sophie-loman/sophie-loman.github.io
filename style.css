@@ -5,7 +5,7 @@ body {
 header {
 	background-image: pic;
 	text-align:center;
-	font-family: Rockwell;
+	font-family: Sans-serif;
 	font-weight:bold;
 	font-size:40px;
 	color:#ffffff;
@@ -13,7 +13,7 @@ header {
 
 .links {
 	text-align: center;
-	font-family: Rockwell;
+	font-family: Sans-serif;
 	font-size:25px;
 	font-weight:bold;
 	color:#ffffff;
@@ -33,7 +33,7 @@ img {
 	border-spacing: 5px;
 	padding: 5%;
 	background-color: #3B444B;
-	font-family: Rockwell;
+	font-family: Sans-serif;
 	font-size: 24px;
 	font-weight: bold;
 	color: #B0C4DE;
