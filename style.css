@@ -12,8 +12,10 @@ header {
 	margin: 1%;
 }
 
-.links {
+.center-links {
 	text-align: center;
+}
+.links {
 	font-family: Rockwell;
 	font-size: 36px;
 	font-weight: bold;
