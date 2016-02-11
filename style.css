@@ -3,7 +3,7 @@ body {
 }
 
 header {
-	background-image: pic;
+	background-image: "pic";
 	text-align:center;
 	font-family: Sans-serif;
 	font-weight:bold;
@@ -34,8 +34,7 @@ img {
 	padding: 5%;
 	background-color: #3B444B;
 	font-family: Sans-serif;
-	font-size: 24px;
-	font-weight: bold;
+	font-size: 26px;
 	color: #B0C4DE;
 	margin-left: 10%;
 	margin-right: 10%;
