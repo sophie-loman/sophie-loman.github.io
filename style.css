@@ -3,7 +3,7 @@ body {
 }
 
 header {
-	background-image: "pic";
+	background-image: url("pic");
 	text-align:center;
 	font-family: Sans-serif;
 	font-weight:bold;
