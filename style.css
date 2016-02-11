@@ -49,3 +49,10 @@ img {
 	margin-left: 10%;
 	margin-right: 10%;
 }
+
+.border {
+	border: 1px solid;
+	border-color: #ffffff;
+	padding: 10%;
+	background-color: #779ECB;
+}
